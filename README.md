@@ -42,5 +42,6 @@ Le projet reste un prototype, donc les tests doivent être effectués tout en li
   - tensorflow
   - pytorch
   - transformers
-  - fastapi
   - google-auth
+  - streamlit
+  - fastapi
