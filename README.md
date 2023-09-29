@@ -6,7 +6,7 @@ Le premier pas est de développer un prototype permettant de prédire le sentime
 Cependant, la société ne possède pas de données destinées à cet usage. 
 Il faut donc se tourner vers un apport exterieur: un jeu de données Open Source recueillant 1,6 millions de tweets est sélectionné.
 Le manager indique qu'il souhaite des approches avec des modèles variés, ainsi qu'un article de blog pour exposer les résultats.
-Le projet reste un prototype, donc les tests doivent être effectués tout en limitant les coûts de mise en production.
+Le projet reste un prototype, les tests doivent donc être effectués en limitant les coûts de mise en production.
 
 ## Objectifs
 - Pipeline de prétraitement des données textuelles
@@ -26,22 +26,25 @@ Le projet reste un prototype, donc les tests doivent être effectués tout en li
 - Présentation PowerPoint
 
 ## Outils
+- Python
 - Git / Github
-- Jupyter notebook
+- Jupyter notebook / Python IDE
+- PowerPoint
 - Streamlit
 - Azure web app
 - Google Storage
-- Python
-  - pandas
-  - nltk
-  - contractions
-  - numpy
-  - matplotlib
-  - seaborn
-  - sklearn
-  - tensorflow
-  - pytorch
-  - transformers
-  - google-auth
-  - streamlit
-  - fastapi
+
+### Python : libraires additionnelles
+- pandas
+- nltk
+- contractions
+- numpy
+- matplotlib
+- seaborn
+- sklearn
+- tensorflow
+- pytorch
+- transformers
+- google-auth
+- streamlit
+- fastapi
