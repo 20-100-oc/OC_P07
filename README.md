@@ -4,7 +4,7 @@
 L'entreprise Air Paradis cherche à améliorer sa réputation sur les réseaux sociaux.
 Le premier pas est de développer un prototype permettant de prédire le sentiment associé à un texte, et plus précisément, un tweet.
 Cependant, la société ne possède pas de données destinées à cet usage. 
-Il faut donc se tourner vers un apport exterieur: un jeu de données Open Source recueillant 1,6 millions de tweets est sélectionné.
+Il faut donc se tourner vers un apport exterieur: un jeu de données Open Source recueillant 1,6 million de tweets est sélectionné.
 Le manager indique qu'il souhaite des approches avec des modèles variés, ainsi qu'un article de blog pour exposer les résultats.
 Le projet reste un prototype, les tests doivent donc être effectués en limitant les coûts de mise en production.
 
