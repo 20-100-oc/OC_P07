@@ -12,7 +12,7 @@ Le projet reste un prototype, les tests doivent donc être effectués en limitan
 - Pipeline de prétraitement des données textuelles
 - Modélisation à complexité croissante: 
   - régression linéaire
-  - réseau de neuronnes récurrent avec plongement de mots
+  - réseau de neurones récurrent avec plongement de mots
   - modèle type BERT
 - Déploiement continue sur le cloud du modèle choisi (BERT)
 - Création d'une application web pour interagir avec le modèle déployé
